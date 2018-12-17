@@ -1,5 +1,6 @@
 # Как отсортировать элементы в случайном порядке?!
 Random sorting of items. 
+[Пример]('https://codepen.io/xakplant/pen/VqjdbP')
 ## HTML
 ```HTML
 <div id="block">
