@@ -50,3 +50,5 @@ childs.map((e, idx)=>{
     parent.insertAdjacentElement('beforebegin', e);
 });
 ```
+
+[Почему такая сложная сортировка?!](https://habr.com/post/358094/)
