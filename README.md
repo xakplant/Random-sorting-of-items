@@ -1,5 +1,6 @@
-# Random-sorting-of-items
-Random sorting of items
+# Как отсортировать элементы в случайном порядке?!
+Random sorting of items. 
+## HTML
 ```HTML
 <div id="block">
   <div>1</div>
@@ -15,7 +16,7 @@ Random sorting of items
   <div>11</div>
 </div>
 ```
-
+## JS
 ```JS
 let parent = document.getElementById('block');
 let childs = parent.children;
